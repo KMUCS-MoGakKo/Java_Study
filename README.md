@@ -7,7 +7,7 @@
 #### 3주차: [클래스](https://github.com/whiteship/live-study/issues/5)
 #### 4주차: [상속](https://github.com/whiteship/live-study/issues/6)
 #### 5주차: [패키지](https://github.com/whiteship/live-study/issues/7)
-#### 6주차[인터페이스](https://github.com/whiteship/live-study/issues/8)
+#### 6주차: [인터페이스](https://github.com/whiteship/live-study/issues/8)
 #### 7주차: [예외 처리](https://github.com/whiteship/live-study/issues/9)
 #### 8주차: [멀티쓰레드 프로그래밍](https://github.com/whiteship/live-study/issues/10)
 #### 9주차: [Enum](https://github.com/whiteship/live-study/issues/11)
